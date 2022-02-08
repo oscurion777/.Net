@@ -1,0 +1,5 @@
+D:\Programacion\.NET\tarea1_1\tarea1_1\obj\Debug\net6.0\tarea1_1.csproj.AssemblyReference.cache
+D:\Programacion\.NET\tarea1_1\tarea1_1\obj\Debug\net6.0\tarea1_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\.NET\tarea1_1\tarea1_1\obj\Debug\net6.0\tarea1_1.AssemblyInfoInputs.cache
+D:\Programacion\.NET\tarea1_1\tarea1_1\obj\Debug\net6.0\tarea1_1.AssemblyInfo.cs
+D:\Programacion\.NET\tarea1_1\tarea1_1\obj\Debug\net6.0\tarea1_1.csproj.CoreCompileInputs.cache
